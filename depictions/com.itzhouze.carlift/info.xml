@@ -1,0 +1,54 @@
+<package>
+	<id>com.itzhouze.carlift</id>
+	<name>Full Package</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.5</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>libactivator</package>
+	</dependencies>
+	<shortDescription>Activator Action to temporarily disable Raise to Wake</shortDescription>
+	<descriptionlist>
+		<description>Your screen turns on with every movement or bumb in your cars cell phone holder?</description>
+		<description><![CDATA[Not anymore!
+		Use the new Activator actions to temporarily disable the raise to wake feature.<br/> 
+		For example, activate it when you're connected to your cars bluetooth.<br/> 
+		<br/> 
+		Use the 'Deactivate' activator action to reset the raise to wake settings to default.<br/> 
+		For example, if you're no longer connected to your cars bluetooth.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Settings</description>
+			<image>settings.jpg</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>New Activator Icons</change>
+        <change>Added GitHub link</change>
+        <change>Optimized Performance</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/itzhouze</url>
+		</link>
+		
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/itzhouze</url>
+		</link>
+		
+		<link>
+			<name>Reddit thread</name>
+			<url>https://www.reddit.com/r/jailbreak/comments/i9j2nx/free_release_carlift_activator_action_to/</url>
+		</link>		
+	</links>
+</package>
