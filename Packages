@@ -1,0 +1,15 @@
+Package: com.itzhouze.carlift
+Name: CarLift
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Your screen turns on with every movement or bumb in your cars cell phone holder? Not anymore! Use the new Activator actions to temporarily disable the raise to wake feature. For example, activate it when you're connected to your cars bluetooth. Use the 'Deactivate' activator action to reset the raise to wake settings to default. For example, if you're no longer connected to your cars bluetooth.
+Maintainer: itzhouze
+Author: itzhouze
+Depiction: https://itzhouze.github.io/depictions/?p=com.itzhouze.carlift
+Section: Tweak
+Depends: mobilesubstrate, libactivator
+Filename: debs/com.itzhouze.carlift_1.0.1_iphoneos-arm.deb
+Size: 18176
+MD5sum: 30e28f5a2e91af897687747fdd0e6e18
+SHA1: e9126bacfcde5cd2e16dfc315871f8413a924414
+SHA256: decec7ddbc9b506bf8cbb90adc47ef9b5092b58700c10d6997a99ade81e4976a
