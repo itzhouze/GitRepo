@@ -8,8 +8,8 @@ Author: itzhouze
 Depiction: https://itzhouze.github.io/depictions/?p=com.itzhouze.carlift
 Section: Tweak
 Depends: mobilesubstrate, libactivator
-Filename: debs/com.itzhouze.carlift_1.0.1_iphoneos-arm.deb
-Size: 18176
+Filename: ./debs/com.itzhouze.carlift_1.0.1_iphoneos-arm.deb
+Size: 18210
 MD5sum: 30e28f5a2e91af897687747fdd0e6e18
 SHA1: e9126bacfcde5cd2e16dfc315871f8413a924414
 SHA256: decec7ddbc9b506bf8cbb90adc47ef9b5092b58700c10d6997a99ade81e4976a
